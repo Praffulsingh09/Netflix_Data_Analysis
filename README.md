@@ -49,6 +49,6 @@ This project provides an in-depth analysis of Netflix's dataset using advanced S
 ### Final Note
 The analysis reveals intriguing patterns in Netflix's content and viewer preferences. By leveraging these insights, Netflix can enhance its content offerings and better cater to global audiences.
 
-
-
+## License 
+This Project is licensed under the MIT license. check [here](https://github.com/Praffulsingh09/Netflix_Data_Analysis/blob/main/LICENSE) for details. 
 
