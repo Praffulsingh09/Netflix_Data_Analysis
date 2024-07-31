@@ -43,6 +43,9 @@ This project provides an in-depth analysis of Netflix's dataset using advanced S
 3. **Director Versatility**: Recognizing directors who work across multiple genres can help in selecting versatile talent for diverse projects.
 4. **Genre Combinations**: Identifying popular genre combinations can guide content creation to meet audience expectations.
 
+![image](https://github.com/user-attachments/assets/35db6702-9a00-43a2-8bf2-3352dc994a33)
+
+
 ### Final Note
 The analysis reveals intriguing patterns in Netflix's content and viewer preferences. By leveraging these insights, Netflix can enhance its content offerings and better cater to global audiences.
 
