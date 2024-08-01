@@ -41,7 +41,8 @@ This project provides an in-depth analysis of Netflix's dataset using advanced S
 1. **Frequent Collaborations**: Identifying actors who frequently collaborate can help in casting decisions and maintaining audience engagement.
 2. **Diverse Genre Preferences**: Understanding the genre preferences of different countries can aid in content localization and marketing strategies.
 3. **Director Versatility**: Recognizing directors who work across multiple genres can help in selecting versatile talent for diverse projects.
-4. **Genre Combinations**: Identifying popular genre combinations can guide content creation to meet audience expectations.
+4. **Popularity Trends**: Examined the impact of release year on the popularity of movies vs. TV shows, revealing how audience preferences have evolved over time.
+5. **Genre Combinations**: Identifying popular genre combinations can guide content creation to meet audience expectations.
 
 ![image](https://github.com/user-attachments/assets/35db6702-9a00-43a2-8bf2-3352dc994a33)
 
